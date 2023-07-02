@@ -1,6 +1,7 @@
 import streamlit as st
 from PIL import Image
 import os
+
 # import langchain
 # from langchain.text_splitter import RecursiveCharacterTextSplitter
 # from langchain.embeddings.openai import OpenAIEmbeddings
